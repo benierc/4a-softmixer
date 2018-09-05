@@ -76,6 +76,8 @@ set (PKG_REQUIRED_LIST
 	uuid
 	alsa>=1.1.2
 	lua
+    afb-helpers
+    ctl-utilities
 )
 
 # Prefix path where will be installed the files
